@@ -1,4 +1,4 @@
-##Overview
+## Overview
 
 This application uses tauri as medium of communication between rust and frontend framework (Next JS in this application) 
 
@@ -11,7 +11,7 @@ Before running this app, there are some dependencies that need to be installed (
 
 You can find the documentation to install these both tools [here](https://tauri.app/v1/guides/getting-started/prerequisites/#setting-up-windows). In the same documentation you can also find the steps for linux and macOS system as well 
 
-###Install Rustup (Installer and manager for rust language) 
+### Install Rustup (Installer and manager for rust language) 
 
 `winget install --id Rustlang.Rustup`
 
